@@ -1,4 +1,5 @@
-## First React practise project in school, base for online store
+# First school practise with React, Sqlite, Axios, Material-UI etc.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
